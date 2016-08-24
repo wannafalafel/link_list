@@ -42,6 +42,9 @@ ttt-10-current-player
 nested-arrays-ruby
 ruby-boolean-enumerables
 ruby-search-enumerators
+
+*This is where I left off*
+
 ttt-game-status
 tic-tac-toe-rb
 ruby-intro-to-oo
