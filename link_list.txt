@@ -44,7 +44,7 @@ ruby-boolean-enumerables
 ruby-search-enumerators
 ttt-game-status
 
-*this is where I left off*
+
 
 tic-tac-toe-rb
 ruby-intro-to-oo
@@ -62,6 +62,9 @@ procedural-vs-oo-ruby
 oo-tic-tac-toe
 https://github.com/learn-co-curriculum/ruby-arguments-reading-2)
 (https://github.com/learn-co-curriculum/splat-readme)
+
+*this is where i left off*
+
 (https://github.com/learn-co-curriculum/more-vowels)
 (https://github.com/learn-co-curriculum/conditional-operators-quiz)
 https://github.com/learn-co-curriculum/yield-and-return-values (similar to my-collect)
