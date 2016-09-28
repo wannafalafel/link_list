@@ -12,7 +12,7 @@ array-readme-qualifying
 ttt-2-board-rb
 ruby-methods-readme*
 interpolation-readme*
-puts-print-and-return-readme*
+puts-print-and-return-r                         eadme*
 ttt-3-display_board-example
 ruby-arguments-readme*
 intro-to-tdd-rspec-and-learn*
@@ -60,19 +60,22 @@ ruby-object-initialize-lab
 oo-barking-dog
 procedural-vs-oo-ruby
 oo-tic-tac-toe
-https://github.com/learn-co-curriculum/ruby-arguments-reading-2)
-(https://github.com/learn-co-curriculum/splat-readme)
-
-*this is where i left off*
-
-(https://github.com/learn-co-curriculum/more-vowels)
-(https://github.com/learn-co-curriculum/conditional-operators-quiz)
-https://github.com/learn-co-curriculum/yield-and-return-values (similar to my-collect)
-https://github.com/learn-co-curriculum/nested-hash-iteration
+ruby-arguments-reading-2
+splat-readme
+more-vowels
+conditional-operators-quiz
+yield-and-return-values (similar to my-collect)
+nested-hash-iteration
 https://github.com/learn-co-curriculum/nested-hash-iteration-code-along
 https://github.com/learn-co-curriculum/other-hash-methods-code-along
+
+
+
 https://github.com/learn-co-curriculum/email-guesser
 (https://github.com/learn-co-curriculum/ruby-assessment)
+
+*This is where I am*
+
 REGEX
 https://github.com/learn-co-curriculum/regex-what-is-a-pattern
 https://github.com/learn-co-curriculum/regex-basics-readme
